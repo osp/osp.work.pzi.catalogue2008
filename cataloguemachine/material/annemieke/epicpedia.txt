@@ -1,0 +1,500 @@
+<title>Bertolt Brecht</title>
+function linktowikipedia(URL) {
+parent.wikipedia.location.href(URL);
+<h1>Bertolt Brecht</h1>
+<h2>by</h2>
+<h2>the editors of Wikipedia, the free encyclopedia</h2>
+<div class="introduction" <br /><br /><br /><br />synopsis:<br /><br /> <bound method Tag.renderContents of <text xml:space="preserve">'''Bertolt Brecht''' ([[February 10]] [[1898]]-[[1956]]).
+Brecht is perhaps the most influential German dramatist and poet of the twentieth century. He was born in [[Augsburg]] in [[Bavaria]]. He studied as a medical student and worked briefly as an orderly in a hospital, in [[Munich]], during [[World War I]]. Following the war he moved to [[Berlin]] where an influential critic, [[Herbert Ihering]], brought him to the attention of a public longing for modern theater. Already in Munich his first two plays, ''Baal'' and ''Drums in the Night'', had been performed and he got to know [[Erich Engel]], a director who worked with him off and on for the rest of his life. In Berlin, ''In the Jungle of the Cities'' starring [[Fritz Kortner]] and directed by Engel became his first success. 
+In Berlin, during the postwar socialist governments and then the [[Weimar]] government, Brecht met and began to work with [[Hans Eisler]] -- the composer with whom he shared the closest friendship throughout his life. He also met [[Helene Weigel]], who would become his second wife and accompany him through exile and for the rest of his life. His first book of poems ''Hauspostille'' won a literary prize.
+Brecht formed a writing collective which was prolific and very influential. [[Elisabeth Hauptmann]], [[Margerita Steffin]], [[Emil Burri]], [[Ruth Berlau]] and others worked with Brecht and produced the multiple ''Lehrstuecke'' (learning plays) which were an attempt at a new dramaturgy for participants rather than passive audiences. These addressed themselves to the massive worker arts organisation that existed in [[Germany]] and [[Austria]] in the twenties. So did his first great play, ''Saint Joan of the Stockyards'', which attempted to portray the drama in financial transactions. He also worked in the theaters of [[Max Reinhardt]] and [[Erwin Piscator]]. 
+This collective also created the story for, and Brecht wrote songs and engaged Kurt Weill to compose, ''The Threepenny Opera'' -- the largest hit in Berlin of the twenties and a renewing influence on the musical  worldwide. This was followed by ''[[Aufstieg und Fall der Stadt Mahagonny|Mahagonny]]'', less of a success and eclipsed by the dawn of fascist rule in Germany. As soon as [[Hitler]] won the elections Brecht was in great danger and left for a long exile -- through [[Denmark]], [[Finland]], then [[England]] and finally in the [[United States]].
+In exile and in active resistance of the Fascist movement, Brecht wrote his most famous plays ''Galileo Galilei'', ''Mother Courage and Her Children'', ''Puntila and Matti, his Hired Man'', ''The Resistable Rise of Arturo Ui'', ''Caucasian Chalk Circle'' and ''The Good Person of Sezuan'' (among many other works).  He also wrote many poems which have continued to attract notice to this day. He participated some in screenplays for Hollywood, for instance ''Hangmen also Die'', but had no real success or pleasure in this.
+After [[World War II]] he was hounded by the HUAC (House Unamerican Activities Committee) and left the United States. He came to [[Switzerland]] where he adapted ''Antigone'' and then was invited to Berlin by [[East Germany]]. Horrified at the reinstatement of Nazis into the government of the western portion of Germany, Brecht made his home in the east. Although he never in his life was a member of the communist party, he saw the goal of communism as the only reliable antidote to militarist fascism and spoke out against the remilitarisation of the west and the division of Germany.
+He was almost as uncomfortable for his East German hosts as for the West Germans across the way. The &quot;Berliner Ensemble&quot;, that world famous theater which toured and was the most influential theater of the postwar decades, was given to his wife: the actress Helene Weigel. She ran it as a theater devoted primarily to the plays and praxes developed by Brecht until her death in [[1971]]. Brecht wrote few plays in his last years in Berlin, none of them as famous. Some of his most famous poems though, including the &quot;Buckower Elegies&quot;, were from this time.
+Brecht died an early death at the age of 58 in [[1956]], leaving a legacy which has been taken up by nearly every country in the world, particularily those where political activity is occurring. His humour and scepticism combined with Gestic and Epic techniques have proved as fruitful as confusing to those who try to produce his works or in his style.  Some of his innovations, though, have become so commonly taken on that one hardly remembers the lack of them before him. 
+One of his wishes for his gravestone was: &quot;He made suggestions; we took them on.&quot; In fact, on his grave at the Dorotheenstadt and Friedrichswerder Cemetery in Berlin there is only a boulder with his name.
+<p style="margin-top:75px;" class="timestamp">It is sunday, January 27 2002</p>
+<p class="direction">[curtain]</p>
+<p class="timestamp"><br /><br /><br />afternoon...</p>
+<p class="timestamp"><br /><br /><br />Enter Omnes</p>
+29 days later<br />
+in the afternoon...
+<comment>Automated conversion</comment> <br /><br />
+142 days later<br />
+in the middle of the night...
+<comment>linking some titles, some of which have entries.</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Lehrstuecke'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">elections </span><br /><br /><span style="text-transform:uppercase">says:</span><br />''Lehrstücke'' <br /><br /><span style="text-transform:uppercase">says:</span><br />elections, <br /><br />
+34 days later<br />
+in the middle of the night...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">as a medical student </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Following </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">performed </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">poems </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">name.
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />medicine <br /><br /><span style="text-transform:uppercase">says:</span><br />After <br /><br /><span style="text-transform:uppercase">says:</span><br />performed, <br /><br /><span style="text-transform:uppercase">says:</span><br />poems, <br /><br /><span style="text-transform:uppercase">says:</span><br />name.<br /><br />
+17 days later<br />
+that night...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Kurt Weill </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[Kurt Weill]] <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">'''Bertolt Brecht''' ([[February 10]] [[1898]]-[[1956]]).
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">in [[Augsburg]] in [[Bavaria]]. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">medicine </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Munich]], </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">After </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Berlin]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Herbert Ihering]], </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Baal'' and ''Drums in the Night'', </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">performed, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Erich Engel]], </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''In </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Cities'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Fritz Kortner]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Weimar]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Hans Eisler]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Helene Weigel]], </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">poems, ''Hauspostille'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Elisabeth Hauptmann]], [[Margerita Steffin]], [[Emil Burri]], [[Ruth Berlau]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Lehrstücke'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Germany]] and [[Austria]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Saint </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Stockyards'', </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Max Reinhardt]] and [[Erwin Piscator]]. 
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Kurt Weill]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Opera'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''[[Aufstieg und Fall der Stadt Mahagonny|Mahagonny]]'', </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Hitler]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">elections, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Denmark]], [[Finland]], </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[England]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[United States]].
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Galilei'', ''[[Mother </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Children]]'', ''[[Puntila </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Man]]'', ''[[The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Ui]]'', ''[[Caucasian </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Circle]]'' and ''[[The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Sezuan]]'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">many poems </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">screenplays </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Hangmen </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Die'', </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[World War II]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Switzerland]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Antigone'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[East Germany]]. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Germany.
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">praxes </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[1971]]. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Buckower Elegies&quot;, were from this time.
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[1956]], </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">name.</span><br /><br /><span style="text-transform:uppercase">says:</span><br />&lt;B&gt;Bertolt Brecht&lt;/B&gt; (1898-1956)
+<br /><br /><span style="text-transform:uppercase">says:</span><br />February 10th 1898 in Augsburg in Bavaria. <br /><br /><span style="text-transform:uppercase">says:</span><br />as a medical student <br /><br /><span style="text-transform:uppercase">says:</span><br />Munich, <br /><br /><span style="text-transform:uppercase">says:</span><br />Following <br /><br /><span style="text-transform:uppercase">says:</span><br />Berlin <br /><br /><span style="text-transform:uppercase">says:</span><br />Herbert Ihering, <br /><br /><span style="text-transform:uppercase">says:</span><br />Baal and &quot;Drums in the Night&quot;, <br /><br /><span style="text-transform:uppercase">says:</span><br />performed <br /><br /><span style="text-transform:uppercase">says:</span><br />Erich Engel, <br /><br /><span style="text-transform:uppercase">says:</span><br />&quot;In <br /><br /><span style="text-transform:uppercase">says:</span><br />Cities&quot; <br /><br /><span style="text-transform:uppercase">says:</span><br />Fritz Kortner <br /><br /><span style="text-transform:uppercase">says:</span><br />
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Weimar <br /><br /><span style="text-transform:uppercase">says:</span><br />Hans Eisler <br /><br /><span style="text-transform:uppercase">says:</span><br />Helene Weigel, <br /><br /><span style="text-transform:uppercase">says:</span><br />poems &quot;Hauspostille&quot; <br /><br /><span style="text-transform:uppercase">says:</span><br />
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Elisabeth Hauptmann, Margerita Steffin, Emil Burri, Ruth Berlau <br /><br /><span style="text-transform:uppercase">says:</span><br />&quot;Lehrstuecke&quot; <br /><br /><span style="text-transform:uppercase">says:</span><br />Germany and Austria <br /><br /><span style="text-transform:uppercase">says:</span><br />&quot;Saint <br /><br /><span style="text-transform:uppercase">says:</span><br />Stockyards&quot; <br /><br /><span style="text-transform:uppercase">says:</span><br />Max Reinhardt and Erwin Piscator. 
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Kurt Weill <br /><br /><span style="text-transform:uppercase">says:</span><br />&quot;The <br /><br /><span style="text-transform:uppercase">says:</span><br />Opera&quot; <br /><br /><span style="text-transform:uppercase">says:</span><br />Mahagonny, <br /><br /><span style="text-transform:uppercase">says:</span><br />Hitler <br /><br /><span style="text-transform:uppercase">says:</span><br />elections <br /><br /><span style="text-transform:uppercase">says:</span><br />Denmark, Finland, <br /><br /><span style="text-transform:uppercase">says:</span><br />England <br /><br /><span style="text-transform:uppercase">says:</span><br />U.S.A.
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Galilei'',''Mother <br /><br /><span style="text-transform:uppercase">says:</span><br />Children'', &quot;Puntila <br /><br /><span style="text-transform:uppercase">says:</span><br />Man&quot;, &quot;The <br /><br /><span style="text-transform:uppercase">says:</span><br />Ui &quot;,Caucasian <br /><br /><span style="text-transform:uppercase">says:</span><br />Circle&quot; and &quot;The <br /><br /><span style="text-transform:uppercase">says:</span><br />Sezuan&quot; <br /><br /><span style="text-transform:uppercase">says:</span><br />a considerable amount of Poems <br /><br /><span style="text-transform:uppercase">says:</span><br />Screenplays <br /><br /><span style="text-transform:uppercase">says:</span><br />&quot;Hangmen <br /><br /><span style="text-transform:uppercase">says:</span><br />Die&quot;, <br /><br /><span style="text-transform:uppercase">says:</span><br />
+<br /><br /><span style="text-transform:uppercase">says:</span><br />the war <br /><br /><span style="text-transform:uppercase">says:</span><br />Switzerland <br /><br /><span style="text-transform:uppercase">says:</span><br />&quot;Antigone&quot; <br /><br /><span style="text-transform:uppercase">says:</span><br />the German Democratic Republic. <br /><br /><span style="text-transform:uppercase">says:</span><br />Germany. 
+<br /><br /><span style="text-transform:uppercase">says:</span><br />praxis <br /><br /><span style="text-transform:uppercase">says:</span><br />1971. <br /><br /><span style="text-transform:uppercase">says:</span><br />Buckower Elegies. 
+<br /><br /><span style="text-transform:uppercase">says:</span><br />1956, <br /><br /><span style="text-transform:uppercase">says:</span><br />
+<br /><br /><span style="text-transform:uppercase">says:</span><br />name.
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&lt;B&gt;Bertolt Brecht&lt;/B&gt; (1898-1956)
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">February 10th 1898 in Augsburg in Bavaria. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Munich, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Berlin </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Herbert Ihering, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Baal and &quot;Drums in the Night&quot;, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Erich Engel, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;In </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Cities&quot; </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Fritz Kortner </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Weimar </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Hans Eisler </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Helene Weigel, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Hauspostille&quot; </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Elisabeth Hauptmann, Margerita Steffin, Emil Burri, Ruth Berlau </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Lehrstuecke&quot; </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Germany and Austria </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Saint </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Stockyards&quot; </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Max Reinhardt and Erwin Piscator. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Opera&quot; </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Mahagonny, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Hitler </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Denmark, Finland, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">England </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">U.S.A.
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Galilei'',''Mother </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Puntila </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Man&quot;, &quot;The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Ui &quot;,Caucasian </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Circle&quot; and &quot;The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Sezuan&quot; </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">a considerable amount of Poems </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Screenplays </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Hangmen </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Die&quot;, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">the war </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Switzerland </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Antigone&quot; </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">the German Democratic Republic. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Germany. 
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">praxis </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">1971. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Buckower Elegies. 
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">1956, </span><br /><br /><span style="text-transform:uppercase">says:</span><br />'''Bertolt Brecht''' ([[February 10]] [[1898]]-[[1956]]).
+<br /><br /><span style="text-transform:uppercase">says:</span><br />in [[Augsburg]] in [[Bavaria]]. <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Munich]], <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Berlin]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Herbert Ihering]], <br /><br /><span style="text-transform:uppercase">says:</span><br />''Baal'' and ''Drums in the Night'', <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Erich Engel]], <br /><br /><span style="text-transform:uppercase">says:</span><br />''In <br /><br /><span style="text-transform:uppercase">says:</span><br />Cities'' <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Fritz Kortner]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Weimar]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Hans Eisler]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Helene Weigel]], <br /><br /><span style="text-transform:uppercase">says:</span><br />''Hauspostille'' <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Elisabeth Hauptmann]], [[Margerita Steffin]], [[Emil Burri]], [[Ruth Berlau]] <br /><br /><span style="text-transform:uppercase">says:</span><br />''Lehrstuecke'' <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Germany]] and [[Austria]] <br /><br /><span style="text-transform:uppercase">says:</span><br />''Saint <br /><br /><span style="text-transform:uppercase">says:</span><br />Stockyards'', <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Max Reinhardt]] and [[Erwin Piscator]]. <br /><br /><span style="text-transform:uppercase">says:</span><br />''The <br /><br /><span style="text-transform:uppercase">says:</span><br />Opera'' <br /><br /><span style="text-transform:uppercase">says:</span><br />''Mahagonny'', <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Hitler]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Denmark]], [[Finland]], <br /><br /><span style="text-transform:uppercase">says:</span><br />[[England]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[United States]].
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Galilei'', ''Mother <br /><br /><span style="text-transform:uppercase">says:</span><br />''Puntila <br /><br /><span style="text-transform:uppercase">says:</span><br />Man'', ''The <br /><br /><span style="text-transform:uppercase">says:</span><br />Ui'', ''Caucasian <br /><br /><span style="text-transform:uppercase">says:</span><br />Circle'' and ''The <br /><br /><span style="text-transform:uppercase">says:</span><br />Sezuan'' <br /><br /><span style="text-transform:uppercase">says:</span><br />many poems <br /><br /><span style="text-transform:uppercase">says:</span><br />screenplays <br /><br /><span style="text-transform:uppercase">says:</span><br />''Hangmen <br /><br /><span style="text-transform:uppercase">says:</span><br />Die'', <br /><br /><span style="text-transform:uppercase">says:</span><br />[[World War II]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Switzerland]] <br /><br /><span style="text-transform:uppercase">says:</span><br />''Antigone'' <br /><br /><span style="text-transform:uppercase">says:</span><br />[[East Germany]]. <br /><br /><span style="text-transform:uppercase">says:</span><br />Germany.
+<br /><br /><span style="text-transform:uppercase">says:</span><br />praxes <br /><br /><span style="text-transform:uppercase">says:</span><br />[[1971]]. <br /><br /><span style="text-transform:uppercase">says:</span><br />&quot;Buckower Elegies&quot;, were from this time.
+<br /><br /><span style="text-transform:uppercase">says:</span><br />[[1956]], <br /><br />
+326 days later<br />
+at sunrise...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">10]] [[1898]]-[[1956]]).
+Brecht </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">German dramatist and poet of the twentieth century. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Bavaria]]. He </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">as a medical student </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Following </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">performed </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">poems </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Lehrstuecke'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Kurt Weill </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Mahagonny'', </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">elections </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Mother </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Children'', ''Puntila </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Man'', ''The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Ui'', ''Caucasian </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Circle'' and ''The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Sezuan'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />10]], [[1898]] - [[1956]]) <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Germany|German]] [[drama|dramatist]] and [[poetry|poet]] of the [[20th century]]. 
+<br /><br /><span style="text-transform:uppercase">says:</span><br />[[Bavaria]], <br /><br /><span style="text-transform:uppercase">says:</span><br />medicine <br /><br /><span style="text-transform:uppercase">says:</span><br />After <br /><br /><span style="text-transform:uppercase">says:</span><br />performed, <br /><br /><span style="text-transform:uppercase">says:</span><br />poems, <br /><br /><span style="text-transform:uppercase">says:</span><br />''Lehrstücke'' <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Kurt Weill]] <br /><br /><span style="text-transform:uppercase">says:</span><br />''[[Aufstieg und Fall der Stadt Mahagonny|Mahagonny]]'', <br /><br /><span style="text-transform:uppercase">says:</span><br />elections, <br /><br /><span style="text-transform:uppercase">says:</span><br />''[[Mother <br /><br /><span style="text-transform:uppercase">says:</span><br />Children]]'', ''[[Puntila <br /><br /><span style="text-transform:uppercase">says:</span><br />Man]]'', ''[[The <br /><br /><span style="text-transform:uppercase">says:</span><br />Ui]]'', ''[[Caucasian <br /><br /><span style="text-transform:uppercase">says:</span><br />Circle]]'' and ''[[The <br /><br /><span style="text-transform:uppercase">says:</span><br />Sezuan]]'' <br /><br /><span style="text-transform:uppercase">says:</span><br />name.<br /><br />
+14 days later<br />
+in the afternoon...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">'''Bertolt </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">(House </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Committee) </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Gestic </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">techniques </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">proved </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[de:Bertolt Brecht]]'''Bertolt <br /><br /><span style="text-transform:uppercase">says:</span><br />([[House <br /><br /><span style="text-transform:uppercase">says:</span><br />Committee]]) <br /><br /><span style="text-transform:uppercase">says:</span><br />gestic <br /><br /><span style="text-transform:uppercase">says:</span><br />techniques, and what he called the ''Verfremdungseffekt'' (alienation effect), <br /><br /><span style="text-transform:uppercase">says:</span><br />proven <br /><br />
+14 days later<br />
+in the morning...
+<comment>added the &quot;V-Effekt&quot;, link to HUAC, fixed a minor grammatical error, linked to new German article on Brecht</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Brecht]]'''Bertolt </span><br /><br /><span style="text-transform:uppercase">says:</span><br />Brecht]][[eo:Bertolt BRECHT]][[pl:Bertolt Brecht]]
+'''Bertolt <br /><br />
+4 days later<br />
+afternoon...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&quot;Berliner Ensemble&quot;, </span><br /><br /><span style="text-transform:uppercase">says:</span><br />Brecht was a scruffily dressed person  and he invented designer stubble - he always looked as though he had shaved three days earlier.  As a result, security guards once excluded him from a reception being given in Berlin in his own honour.
+Although he lived in the DDR, Brecht's work was never published there - the copyright was held by a Swiss company and he received valuable hard currency remittances. He used to drive round East Berlin in a prewar DKW car - a rare luxury in the austere divided capital.
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Berliner Ensemble, <br /><br />
+25 days later<br />
+later in the morning...
+<comment>adding colour to time in E Germany</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">through </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Resistable </span><br /><br /><span style="text-transform:uppercase">says:</span><br />in <br /><br /><span style="text-transform:uppercase">says:</span><br />Resistible <br /><br />
+4 days later<br />
+before lunch...
+<div><span style="text-transform:uppercase">says:</span><br />Not, particularily , but particularly </div>
+63 days later<br />
+early in the morning...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Opera'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">twenties </span><br /><br /><span style="text-transform:uppercase">says:</span><br />''[[The <br /><br /><span style="text-transform:uppercase">says:</span><br />Opera]]'' <br /><br /><span style="text-transform:uppercase">says:</span><br />1920s <br /><br />
+8 days later<br />
+late in the evening...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Augsburg]] in </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">hospital, in [[Munich]], </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Weimar]] government, </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">twenties. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">As soon as [[Hitler]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">''Galileo Galilei'', </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Sezuan]]'' (among </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">works). </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">way. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">round </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Epic </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[Augsburg]], <br /><br /><span style="text-transform:uppercase">says:</span><br />hospital in [[Munich]] <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Weimar Republic]], <br /><br /><span style="text-transform:uppercase">says:</span><br />[[1920s]]. <br /><br /><span style="text-transform:uppercase">says:</span><br />After [[Adolf Hitler]] <br /><br /><span style="text-transform:uppercase">says:</span><br />''[[Galileo Galilei]]'', <br /><br /><span style="text-transform:uppercase">says:</span><br />Sezuan]]'', among <br /><br /><span style="text-transform:uppercase">says:</span><br />works. <br /><br /><span style="text-transform:uppercase">says:</span><br />''[[iron curtain]]''. <br /><br /><span style="text-transform:uppercase">says:</span><br />around <br /><br /><span style="text-transform:uppercase">says:</span><br />epic <br /><br />
+6 days later<br />
+at sunrise...
+<div><span style="text-transform:uppercase">says:</span><br />Not, [[Hans , but [[Hanns </div>
+4 days later<br />
+early in the evening...
+<span style="text-transform:uppercase">says:</span><br />[[August 14]], <br /><br />
+17 days later<br />
+in the afternoon...
+<comment>added deathdate</comment> <br /><br />
+<span style="text-transform:uppercase">says:</span><br />
+&lt;div style=&quot;float:right&quot;&gt;[[image:Brecht.jpg]]&lt;br&gt;&lt;/div&gt;
+<comment>insert pic</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&lt;div style=&quot;float:right&quot;&gt;[[image:Brecht.jpg]]&lt;br&gt;&lt;/div&gt;
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />&lt;table align=right&gt;&lt;tr&gt;&lt;td&gt;[[Image:Brecht.jpg]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+121 days later<br />
+early in the evening...
+<comment>make image better in page</comment> <br /><br />
+<div><span style="text-transform:uppercase">says:</span><br />Not, [[Margerita , but [[Margarete </div>
+44 days later<br />
+at midnight...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">name.</span><br /><br /><span style="text-transform:uppercase">says:</span><br />
+Brecht also found the experience of living in a Stalinist state far different than what he imagined in exile, when he composed works such as Die Massnahmen [&quot;The Measures&quot;] that glorified the self-denying infallible vanguard party [or, more concretely in Die Massnahmen, that justified the stupid political decisions made by the Comintern that resulted in the spectacular failure of the revolution attempted in Shanghai in 1927]. Brecht's showed his more sober appreciation of the impossibility of socialism without democracy in a piece he wrote while living in Berlin in the 1950s, after the state suppressed a workers' revolt in 1953:
+Nach dem Aufstand des 17. Juni
+Ließ der Sekretär des Schriftstellerverbands
+In der Stalinallee Flugblätter verteilen
+Auf denen zu lesen war, daß das Volk
+Das Vertrauen der Regierung verscherzt habe
+Und es nur durch verdoppelte Arbeit
+Zurückerobern könne.  Wäre es da
+Nicht doch einfacher, die Regierung
+Wählte ein anderes?
+The Solution
+After the uprising on June 17th
+The Secretary of the Writers Union
+Had flyers distributed in Stalin Way that said
+Thrown away the Government's Confidence
+And that they could only regain it
+Through Redoubled Work.  But wouldn't it be
+Simpler if the Government
+Simply dissolved the People
+And elected another?
+Had he wanted to use it, one of his late poems could have served as a fitting epitaph:
+Und ich dachte immer, die allereinfachsten Worte
+Müssen genügen. Wenn ich sage, was ist
+Muß jedem das Herz zerfleischt sein.
+Daß du untergehst, wenn du dich nicht wehrst.
+Das wirst du doch einsehn.
+And I always thought that the simplest words
+Must be enough. That when I say how things are
+Everyone's heart must be torn to shreds.
+That you'll go down if you don't stand up.
+Surely you see that.<br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">the most </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[drama|dramatist]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">In Berlin, during </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">socialist </span><br /><br /><span style="text-transform:uppercase">says:</span><br />an <br /><br /><span style="text-transform:uppercase">says:</span><br />[[drama]]tist <br /><br /><span style="text-transform:uppercase">says:</span><br />During <br /><br /><span style="text-transform:uppercase">says:</span><br />[[socialism|socialist]] <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">perhaps </span><br /><br />
+26 days later<br />
+that evening...
+<span style="text-transform:uppercase">says:</span><br />Brecht was famously known for [[breaking the fourth wall]], drawing his audiences attention to the fact that they are in a theatre watching a play. <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[breaking the fourth </span><br /><br /><span style="text-transform:uppercase">says:</span><br />breaking the [[fourth <br /><br />
+20 days later<br />
+at dawn...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[1956]], </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[1956]] (of a [[heart attack]]), <br /><br />
+11 days later<br />
+at sunset...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Brecht]][[eo:Bertolt BRECHT]][[pl:Bertolt </span><br /><br /><span style="text-transform:uppercase">says:</span><br />Brecht]] [[eo:Bertolt BRECHT]] [[es:Bertolt Brecht]] [[pl:Bertolt <br /><br />
+14 days later<br />
+at dinnertime...
+<span style="text-transform:uppercase">says:</span><br />[[ja:&amp;#12505;&amp;#12523;&amp;#12488;&amp;#12523;&amp;#12488;&amp;#12539;&amp;#12502;&amp;#12524;&amp;#12498;&amp;#12488;]] <br /><br />
+3 days later<br />
+in the middle of the night...
+<div><span style="text-transform:uppercase">says:</span><br />Not, Galilei]]'', , but (play)|Galileo]]'', </div>
+44 days later<br />
+late in the evening...
+<comment>change Galileo ref</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">that.</span><br /><br /><span style="text-transform:uppercase">says:</span><br />that.
+&quot;Because things are the way they are, things will not stay the way they are.&quot;
+&quot;Why be a man when you can be a success?&quot;
+&quot;War is like love; it always finds a way.&quot;
+&quot;There are times when you have to choose between being a human and having good taste.&quot;<br /><br />
+32 days later<br />
+almost midnight...
+<comment>Added some notable quotes.</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Although he never in his life was </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">he </span><br /><br /><span style="text-transform:uppercase">says:</span><br />He had not been <br /><br /><span style="text-transform:uppercase">says:</span><br />but had been deeply schooled in [[Marxism]] by the dissident communist [[Karl Korsch]]. He <br /><br />
+27 days later<br />
+that night...
+<span style="text-transform:uppercase">says:</span><br />Brecht]] [[no:Bertolt <br /><br />
+22 days later<br />
+that night...
+<span style="text-transform:uppercase">says:</span><br />Brecht]] [[sv:Bertolt <br /><br />
+39 days later<br />
+early in the evening...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">He </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">quotes:
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />== His life and career ==
+Brecht <br /><br /><span style="text-transform:uppercase">says:</span><br />quotations:
+6 days later<br />
+that night...
+<comment>created brief intro and correct grammar</comment> <br /><br />
+<div><span style="text-transform:uppercase">says:</span><br />Not, gravestone , but [[gravestone]] </div>
+<comment>link gravestone</comment> <br /><br />
+<span style="text-transform:uppercase">says:</span><br />[[he:&amp;#1489;&amp;#1512;&amp;#1496;&amp;#1493;&amp;#1500;&amp;#1496; &amp;#1489;&amp;#1512;&amp;#1499;&amp;#1496;]] <br /><br />
+2 days later<br />
+later that afternoon...
+&quot;Because things are the way they are, things will not stay the way they are.&quot;
+&quot;Why be a man when you can be a success?&quot;
+&quot;War is like love; it always finds a way.&quot;
+&quot;There are times when you have to choose between being a human and having good taste.&quot;</span><br /><br /><span style="text-transform:uppercase">says:</span><br />quotations: see [http://quote.wikipedia.org/wiki/Bertold_Brecht|Bertold Brecht] at [[Wikiquote]].<br /><br />
+<comment>moved quotes to wikiquote -- if someone knows a good &quot;single defining epigram&quot; type quote, feel free to restore it</comment> <br /><br />
+9 days later<br />
+in the middle of the night...
+<comment>wtf? it worked in preview, i swear...</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">is </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">century]]. 
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[fr:Bertolt Brecht]]
+6 days later<br />
+before lunch...
+6 days later<br />
+late in the evening...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[http://quote.wikipedia.org/wiki/Bertold_Brecht Bertold </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[http://quote.wikipedia.org/wiki/Bertolt_Brecht Bertolt <br /><br />
+16 days later<br />
+before the crack of dawn...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[de:Bertolt Brecht]] [[eo:Bertolt BRECHT]] [[es:Bertolt Brecht]] [[he:&amp;#1489;&amp;#1512;&amp;#1496;&amp;#1493;&amp;#1500;&amp;#1496; &amp;#1489;&amp;#1512;&amp;#1499;&amp;#1496;]] [[no:Bertolt Brecht]] [[ja:&amp;#12505;&amp;#12523;&amp;#12488;&amp;#12523;&amp;#12488;&amp;#12539;&amp;#12502;&amp;#12524;&amp;#12498;&amp;#12488;]] [[pl:Bertolt Brecht]] [[sv:Bertolt Brecht]]
+[[fr:Bertolt Brecht]]
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">align=right&gt;&lt;tr&gt;&lt;td&gt;[[Image:Brecht.jpg]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Wikiquote]].</span><br /><br /><span style="text-transform:uppercase">says:</span><br />align=right&gt;&lt;tr&gt;&lt;td&gt;[[Image:Brecht.jpg]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[Category:Playwright]]
+[[de:Bertolt Brecht]] [[eo:Bertolt BRECHT]] [[es:Bertolt Brecht]] [[he:&amp;#1489;&amp;#1512;&amp;#1496;&amp;#1493;&amp;#1500;&amp;#1496; &amp;#1489;&amp;#1512;&amp;#1499;&amp;#1496;]] [[no:Bertolt Brecht]] [[ja:&amp;#12505;&amp;#12523;&amp;#12488;&amp;#12523;&amp;#12488;&amp;#12539;&amp;#12502;&amp;#12524;&amp;#12498;&amp;#12488;]] [[pl:Bertolt Brecht]] [[sv:Bertolt Brecht]]
+[[fr:Bertolt Brecht]]<br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&lt;table align=right&gt;&lt;tr&gt;&lt;td&gt;[[Image:Brecht.jpg]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Category:Playwright]]
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />&lt;table align=right&gt;&lt;tr&gt;&lt;td&gt;[[Image:Brecht.jpg]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+<br /><br /><span style="text-transform:uppercase">says:</span><br />[[Category:Playwright|Brecht, Bertolt]]
+<div><span style="text-transform:uppercase">says:</span><br />Not, [[Category:Playwright|Brecht, , but [[Category:Dramatists|Brecht, </div>
+9 days later<br />
+late in the evening...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[drama]]tist </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[drama]]tist, [[director]] <br /><br />
+<div><span style="text-transform:uppercase">says:</span><br />Not, [[director]] , but [[director]], </div>
+in the afternoon...
+<span style="text-transform:uppercase">says:</span><br />[[Category:Marxist philosophers|Brecht, Bertolt]]
+in the morning...
+25 days later<br />
+early in the evening...
+<comment>[[Myocardial infarction|heart attack]]</comment> <br /><br />
+[[Category:German writers|Brecht, <br /><br />
+7 days later<br />
+in the middle of the night...
+<span style="text-transform:uppercase">says:</span><br />Bertolt]]
+[[Category:Theatre directors|Brecht, <br /><br />
+18 days later<br />
+afternoon...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">His humour and scepticism combined </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">gestic and epic techniques, and what </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">called the ''Verfremdungseffekt'' </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">have </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">as </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">as </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Brecht was famously known for breaking the [[fourth wall]], drawing his audiences attention to the fact </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">they are in a </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">play. </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">him. 
+One of his wishes for his [[gravestone]] was: &quot;He made suggestions; we took them on.&quot; In fact, on his grave at the [[Dorotheenstadt and Friedrichswerder Cemetery]] in Berlin there is only a boulder with his name.
+== Theory of theatre ==
+Brecht also created his own theory of theatre, the so-called &quot;epic theatre&quot;: a play should in his opinion not make you put yourself in the position of the persons on the stage, but make you think about their actions. For this purpose, he employed the &lt;i&gt;''Verfremdungseffekt''&lt;/i&gt; <br /><br /><span style="text-transform:uppercase">says:</span><br />e.g. actors talking to the audience or actors showing that they are acting (and not impersonating the person they are playing). He was famous for putting up signs with the writing &quot;Glotzt nicht so romantisch!&quot; (&quot;Don't stare that romantically!&quot;) in one of his first stagings. This way of producing has <br /><br /><span style="text-transform:uppercase">says:</span><br />both <br /><br /><span style="text-transform:uppercase">says:</span><br />and <br /><br /><span style="text-transform:uppercase">says:</span><br /> His theory of theatre has heavily influenced modern theatre although it is believed <br /><br /><span style="text-transform:uppercase">says:</span><br />the effect of the epic <br /><br /><span style="text-transform:uppercase">says:</span><br />wears off after <br /><br /><span style="text-transform:uppercase">says:</span><br />few plays of this style. <br /><br /><span style="text-transform:uppercase">says:</span><br />him.
+<br /><br /><span style="text-transform:uppercase">says:</span><br />
+3 days later<br />
+at midnight...
+<span style="text-transform:uppercase">says:</span><br />Although Brecht's work and ideas about theatre are generally thought of as belonging to modernism, there is recent thought that he is the forerunner of contemporary postmodern theatre practice. This is particularly so because he questioned and dissolved many of the accepted practices of theatre (t the time) and created a uniquely political theatre that involved the audience in meaning-making.
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">(t </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">meaning-making.
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />(at <br /><br /><span style="text-transform:uppercase">says:</span><br />meaning-making. Moreover, he was one of the first theatre practitioners to incorporate multimedia into the semiotics of theatre.
+<comment>/* Theory of theatre */</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">fascist </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[fascist]] <br /><br />
+3 days later<br />
+before the crack of dawn...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[director]], </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[Theatre director|director]], <br /><br />
+5 days later<br />
+at midnight...
+<comment>disambiguation: director</comment> <br /><br />
+<div><span style="text-transform:uppercase">says:</span><br />Not, plays , but plays: </div>
+18 days later<br />
+in the morning...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Brecht]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">BRECHT]] </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Brecht]] [[he:&amp;#1489;&amp;#1512;&amp;#1496;&amp;#1493;&amp;#1500;&amp;#1496; &amp;#1489;&amp;#1512;&amp;#1499;&amp;#1496;]] [[no:Bertolt Brecht]] [[ja:&amp;#12505;&amp;#12523;&amp;#12488;&amp;#12523;&amp;#12488;&amp;#12539;&amp;#12502;&amp;#12524;&amp;#12498;&amp;#12488;]] [[pl:Bertolt Brecht]] [[sv:Bertolt </span><br /><br /><span style="text-transform:uppercase">says:</span><br />Brecht]]
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Brecht]]
+[[he:&amp;#1489;&amp;#1512;&amp;#1496;&amp;#1493;&amp;#1500;&amp;#1496; &amp;#1489;&amp;#1512;&amp;#1499;&amp;#1496;]]
+[[ja:&amp;#12505;&amp;#12523;&amp;#12488;&amp;#12523;&amp;#12488;&amp;#12539;&amp;#12502;&amp;#12524;&amp;#12498;&amp;#12488;]]
+[[ku:Bertolt_Brecht]]
+[[no:Bertolt Brecht]]
+[[pl:Bertolt Brecht]]
+[[sv:Bertolt <br /><br />
+2 days later<br />
+that night...
+<comment>interlang +ku</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+&lt;table align=right&gt;&lt;tr&gt;&lt;td&gt;[[Image:Brecht.jpg]]&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />{| align=right
+| [[Image:Brecht.jpg]]
+5 days later<br />
+in the middle of the night...
+<comment>Guanaco - User-controlled Bot: table syntax updated</comment> <br /><br />
+<div><span style="text-transform:uppercase">says:</span><br />Not, [http://quote.wikipedia.org/wiki/Bertolt_Brecht , but [http://en.wikiquote.org/wiki/Bertolt_Brecht </div>
+<comment>/* Theory of theatre */ Fixing link (why the hell is http://quote.wikipedia.org redirecting to German Wikipedia?)</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">&lt;i&gt;''Verfremdungseffekt''&lt;/i&gt; </span><br /><br /><span style="text-transform:uppercase">says:</span><br />''''Verfremdungseffekt'''' <br /><br />
+3 days later<br />
+in the middle of the night...
+<comment>Guanaco - robot: converting HTML tags to proper wiki markup and removing excess newlines</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Category:German writers|Brecht, Bertolt]]
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[es:Bertolt Brecht]]
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[ku:Bertolt_Brecht]]
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Brecht]]</span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[Category:1898 births|Brecht, Bertolt]]
+[[Category:1956 deaths|Brecht, Bertolt]]
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Bertolt]]
+[[Category:German writers|Brecht, <br /><br /><span style="text-transform:uppercase">says:</span><br />[[es:Bertolt Brecht]]
+<br /><br /><span style="text-transform:uppercase">says:</span><br />Brecht]]
+[[ku:Bertolt_Brecht]]<br /><br />
+5 days later<br />
+afternoon...
+<comment>adding [[Category:1898 births]] [[Category:1956 deaths]] based on [[List of people by name]], see [[Wikipedia:People by year|WP:People by year]]</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">director|director]], </span><br /><br /><span style="text-transform:uppercase">says:</span><br />director|stage director]], <br /><br />
+7 days later<br />
+that night...
+<div><span style="text-transform:uppercase">says:</span><br />Not, philosophers|Brecht, , but theorists|Brecht, </div>
+11 days later<br />
+at sunrise...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">militarist fascism </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[militarism|militarist]] [[fascism]] <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">-- in </span><br /><br /><span style="text-transform:uppercase">says:</span><br />&amp;mdash; in [[Austria]], [[Switzerland]], <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Sweden]], <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">DDR, </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[East Germany|DDR]], <br /><br />
+9 days later<br />
+in the middle of the night...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Notable quotations: see [http://en.wikiquote.org/wiki/Bertolt_Brecht Bertolt Brecht] at [[Wikiquote]].
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />{{Wikiquote}}
+8 days later<br />
+at sunset...
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[ku:Bertolt_Brecht]]</span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[ku:Bertolt_Brecht]]
+[[it:Bertolt Brecht]]<br /><br />
+<p class="discusser" align="right">point of discussion from
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">man</span><br /><br /><span style="text-transform:uppercase">says:</span><br />man
+You don't know what you're talking about. Brecht served only one purpose (that I believe was his ultimate aim in life), simply to alienate. He did not wish to only alienate the audience but also to get the general public to a state of such boredom with the theatre in general that they would cease to go to it. Brecht attempted to destroy theatre.<br /><br /> <!--</a>--></div>
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[Category:Dramatists|Brecht, </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[Category:Dramatists and playwrights|Brecht, <br /><br />
+4 days later<br />
+late in the evening...
+<comment>Category:Dramatists and playwrights</comment> <br /><br />
+<span style="text-transform:uppercase">says:</span><br />[[nl:Bertolt Brecht]]
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">[[nl:Bertolt Brecht]]
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Brecht]]
+[[ku:Bertolt_Brecht]]
+[[it:Bertolt </span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[it:Bertolt Brecht]]
+<br /><br /><span style="text-transform:uppercase">says:</span><br />[[ku:Bertolt Brecht]]
+[[nl:Berthold Brecht]]
+<p class="discusser" align="right">point of discussion from
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">theatre.</span><br /><br /><span style="text-transform:uppercase">says:</span><br />theatre.
+you are exactly the type of person brecht was worried about being too ignorant to understand his plays<br /><br /> <!--</a>--></div>
+<comment>warnfile  Modifying:nl</comment> <br /><br />
+Because several Brecht works were not performed until long after they were written, the dates below show both the year they were written, followed by the year they were first produced.
+(1928) The Threepenny Opera
+(1930) Rise and Fall of the City of Mahagonny
+(1937/1941) Mother Courage and Her Children (Mutter Courage und ihre Kinder)
+(1938) The Good Person of Sezuan
+(1940) Galileo (Leben des Galilei)
+(1941/1961) The Resistible Rise of Arturo Ui
+(1948) Caucasian Chalk Circle (Der kaukasische Kreidekreis)
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Opera
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Rise </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Mahagonny
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Mother </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Children </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Sezuan
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Galileo </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">The </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Ui
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Caucasian </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">Circle </span><br /><br /><span style="text-transform:uppercase">says:</span><br />* <br /><br /><span style="text-transform:uppercase">says:</span><br />[[The <br /><br /><span style="text-transform:uppercase">says:</span><br />Opera]]
+* <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Rise <br /><br /><span style="text-transform:uppercase">says:</span><br />Mahagonny]]
+* <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Mother <br /><br /><span style="text-transform:uppercase">says:</span><br />Children]] <br /><br /><span style="text-transform:uppercase">says:</span><br />* <br /><br /><span style="text-transform:uppercase">says:</span><br />[[The <br /><br /><span style="text-transform:uppercase">says:</span><br />Sezuan]]
+* <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Galileo]] <br /><br /><span style="text-transform:uppercase">says:</span><br />* <br /><br /><span style="text-transform:uppercase">says:</span><br />[[The <br /><br /><span style="text-transform:uppercase">says:</span><br />Ui]]
+* <br /><br /><span style="text-transform:uppercase">says:</span><br />[[Caucasian <br /><br /><span style="text-transform:uppercase">says:</span><br />Circle]] <br /><br />
+<comment>/* Major Works */</comment> <br /><br />
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">(1937/1941) </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">(1938) </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">(1940) [[Galileo]] (Leben des Galilei)
+</span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">(1948) </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">
+</span><br /><br /><span style="text-transform:uppercase">says:</span><br />(1929) [[He Who Says Yes]]
+* (1930) [[He Who Says No]] 
+* (1930) [[The Measures Taken]] 
+* <br /><br /><span style="text-transform:uppercase">says:</span><br />(1938) [[The Exception and the Rule]]
+* (1938) [[Galileo]] (Leben des Galilei)
+* (1939/1941) <br /><br /><span style="text-transform:uppercase">says:</span><br />(1940) <br /><br /><span style="text-transform:uppercase">says:</span><br />(1941) [[Puntila and His Man Matti]]
+<br /><br /><span style="text-transform:uppercase">says:</span><br />(1945) <br /><br />
+8 days later<br />
+that evening...
+<div><span style="text-transform:uppercase">says:</span><br />Not, [[nl:Berthold , but [[nl:Bertolt </div>
+Because several Brecht works were not performed until long after they were written, the dates below show both the year they were written, followed by the year they were first produced.
+* ''[[Baal (play)|Baal]]'' ([[1918]]/[[1926]])
+* ''[[Drums in the Night]]'' (''Trommeln in der Nacht'', [[1918-20]])
+* ''[[In the Jungle of the Cities/ In the Swamp]]'' ([[1921-23]])
+* ''[[Man is Man]]'' (''Mann ist Mann'', [[1924-25]])
+* ''[[The Threepenny Opera]]'' (''Die Dreigroschenoper'', [[1928]])
+* ''[[Happy End]]'' ([[1929]])
+* ''Lindbergh's Flight'' (''[[Der Lindberghflug]]'', [[1929]])
+* ''[[The Rise and Fall of the City of Mahagonny]]'' (''Die Aufstieg und Fall der Stadt Mahagonny'', [[1928-29]])/([[1930]])
+* ''[[The Baden Lehrstück on Consent]]'' ([[1928-29]])
+* ''[[He Who Says Yes]]'' (''Der Jasager'', [[1929]]) 
+* ''[[Saint Joan of the Stockyards]]'' (''Die heilige Johanna der Schlachthöfe'', [[1929]]/[[1959]]) 
+* ''[[He Who Says No]]'' (''Der Neinsager'', [[1930]]) 
+* ''[[The Measures Taken]]'' (''Die Massnahme'', [[1930]]) 
+* ''[[The Mother (Play)|The Mother]]'' (''Die Mutter'', [[1930]]/[[1932]]) 
+* ''[[The Exception and the Rule]]'' (''Die Ausnahme und die Regel'', [[1930-31]])/([[1936]])
+**A short play about the exploitation of men. The characters undergo harsh treatment from a wealthy merchant with a lucrative interest in the imaginary deserts of Yahi.
+&lt;!--moved this unedited in its entirety from a stub--&gt;
+* ''[[The Seven Deadly Sins]]'' (''Die Sieben Todsüden der Kleinbürger'', [[1933]])  
+* ''[[The Roundheads and the Peakheads]]'' (''Die Rundköpfe und die Spitzköpfe'', [[1931-36]])
+* ''[[Fear and Misery in the Third Reich]]'' (''Furcht und Elend des Dritten Reiches'', [[1935-38]])
+* ''[[Señora Carrara's Rifles]]'' (''Die Gewehre der Frau Carrar'', [[1937]]/[[1937]]) 
+**based loosely on [[John Millington Synge|J.M. Synge]]'s ''Riders to the Sea'', but relocated by Brecht in the Spanish Civil War
+* ''[[Mother Courage and Her Children]]'' (''Mutter Courage und ihre Kinder'', [[1939]]/[[1941]]) 
+* ''[[The Trial of Lucullus]]''([[1939]]) 
+* ''[[Life of Galileo|Galileo]]'' (''Leben des Galilei'', [[1938]]/[[1943]]) 
+* ''[[The Good Person of Setzuan]]'' ([[1940]]/[[1943]]) 
+* ''[[Puntila and Matti, his Hired Man | Puntila and His Man Matti]]'' (''Herr Puntila und sein Mann Matti'', [[1941]]) 
+* ''[[The Resistible Rise of Arturo Ui]]'' ([[1941]]/[[1961]]) 
+* ''[[Schweik in the Second World War]]'' ([[1941-44]])
+* ''[[The Visions of Simone Machard]]'' ([[1941-44]]) with Lion Feuchtwanger 
+* ''[[The Caucasian Chalk Circle]]'' (''Der kaukasische Kreidekreis'') ([[1944-45]])
+* ''[[The Days of the Commune]]'' ([[1948-49]])
+* ''[[The Tutor]]'' ([[1950]])
+* [[Martin Esslin]] (1971) ''Brecht: The Man and His Work''
+* Peter Thomson and Glendyr Sacks, eds. (1994) ''The Cambridge Companion to Brecht'', Cambridge University Press
+{{Commons|Bertolt Brecht}}
+{{wikiquote}}
+*[http://german.lss.wisc.edu/brecht International Brecht Society]
+*[http://eislermusic.com Brecht's friendship with Hanns Eisler]
+*[http://digital.library.wisc.edu/1711.dl/BrechtGuide Brecht's Works in English: A Bibliography]: This Bibliography of Bertolt Brecht's Works in English Translation is a cooperative project of the International Brecht Society and the Bertolt-Brecht-Archiv (Akademie der Künste, Berlin). The project strives to become a comprehensive listing of Brecht's works published in English translation. Presented by the [http://uwdc.library.wisc.edu University of Wisconsin Digital Collections Center].
+[[Category:German communists]]
+[[Category:American communists]]
+[[Category:Natives of Bavaria|Brecht,Bertolt]]
+<comment>Reverted edits by [[Special:Contributions/204.16.144.36|204.16.144.36]] to last version by 134.219.168.149</comment> <br /><br />
+Born in [[Augsburg]], [[Bavaria]], Brecht studied medicine and worked briefly as an orderly in a hospital in [[Munich]] during [[World War I]]. After the war he moved to [[Berlin]] where an influential critic, [[Herbert Ihering]], brought him to the attention of a public longing for modern theater.
+During the postwar governments and then the [[Weimar Republic]], Brecht met and began to work with [[Hanns Eisler]] &amp;mdash; the composer with whom he shared the closest friendship throughout his life. He also met [[Helene Weigel]], who would become his second wife and accompany him through exile and for the rest of his life. His first book of poems, ''Hauspostille'', won a literary prize.
+He married the opera singer and actress [[Marianne Zoff]] in [[1922]]. Their daughter, [[Hanne Hiob]], born in [[1923]], is a well-known German actress. One year later they had a son, Stefan. In [[1930]] Brecht married Weigel, and their daughter [[Barbara Brecht-Schall|Barbara]] was born soon after. She also became an actress and currently holds the copyrights to all of Brecht's work. 
+Brecht formed a writing collective which became prolific and very influential. [[Elisabeth Hauptmann]], [[Margarete Steffin]], [[Emil Burri]], [[Ruth Berlau]] and others worked with Brecht and produced the multiple ''Lehrstücke'' (teaching plays), which attempted a new dramaturgy for participants rather than passive audiences. These addressed themselves to the massive worker arts organisation that existed in [[Germany]] and [[Austria]] in the [[1920s]]. So did Brecht's first great play, ''Saint Joan of the Stockyards'', which attempted to portray the drama in financial transactions. He also worked in the theaters of [[Max Reinhardt (theatre director)|Max Reinhardt]] and [[Erwin Piscator]]. 
+This collective adapted [[John Gay]]'s ''[[The Beggar's Opera]]'', with Brecht's songs set to music by [[Kurt Weill]]. Retitled ''[[The Threepenny Opera]]'' (''Die Dreigroschenoper'') it was the largest hit in Berlin of the 1920s and a renewing influence on the [[Musical theater|musical]] worldwide. One of its most famous lines underscored the hypocrisy of conventional morality imposed by the Church, working in conjunction with the established order, in the face of working-class hunger and deprivation:
+:First the grub (lit. &quot;eating like animals, gorging&quot;)&lt;br&gt;
+:Then the morality.
+The success of ''[[The Threepenny Opera]]'' was followed by the quickly thrown together ''Happy End''. It was a personal and a commercial failure. The book was then claimed to be by the mysterious Dorothy Lane (now known to be [[Elisabeth Hauptmann]], Brecht's secretary and close collaborator). Brecht only claimed authorship of the song texts. Brecht would later use elements of ''Happy End'' as the germ for his ''Saint Joan of the Stockyards'', a play that would never see the stage in Brecht's life-time. ''Happy End'''s most redeeming quality was its inspired score by Weill, producing many Brecht/Weill hits like  'Der Bilbao-Song' and 'Surabaya-Jonny'.
+The masterpiece of the Brecht/Weill collaborations, ''[[Rise and Fall of the City of Mahagonny]] (Aufstieg und Fall der Stadt Mahagonny)'', premiered in 1930 in Leipzig with an uproar, having Nazis protesting the opera in the audience. The ''Mahagonny'' opera would premier later in Berlin in 1931 as a triumphant sensation. 
+Brecht spent his last years in Berlin (1930-1933) working with his ‘collective’ on the ''Lehrstücke''. These were a group of plays driven by morals, music and Brecht's budding [[Epic Theatre]]. The ''Lehrstücke'' often aimed at educating workers on Socialist issues. ''The Measures Taken'' (''Die Massnahme''), by far the most popular and scandalous of this series, was scored by [[Hanns Eisler]]. In addition, Brecht worked on a script for a semi-documentary feature film about the human impact of mass unemployment, [[Kuhle Wampe]] (1932), which was directed by [[Slatan Dudow]]. This striking film is notable for its subversive humour, outstanding [[cinematography]] by [[Günther Krampf]], and Hanns Eisler's dynamic musical contribution. It still provides a vivid insight into Berlin during the last years of the [[Weimar Republic]].
+By February 1933, Brecht’s work was eclipsed by the rise of [[Nazism|Nazi]] rule in Germany. Brecht would also have his work challenged again in later life by the U.S. [[House Un-American Activities Committee]] (HUAC) who believed he was under the influence of communism.
+== Nazi Germany and World War II ==
+After [[Adolf Hitler]] won the election in 1933, Brecht perceived a great danger to himself and left for exile&amp;mdash;to [[Austria]], [[Switzerland]], [[Denmark]], [[Finland]], [[Sweden]],  [[England]], then [[Russia]] and finally in the [[United States]].
+In his resistance toward the Nazi and Fascist movements, Brecht wrote his most famous plays: ''[[Galileo (play)|Galileo]]'', ''[[Mother Courage and Her Children]]'', ''[[Puntila and Matti, his Hired Man]]'', ''[[The Resistible Rise of Arturo Ui]]'', ''[[The Caucasian Chalk Circle]]'', ''[[The Good Person of Sezuan]]'', and many others.  
+Brecht also wrote poetry which continues to attract attention and respect. He worked on a few screenplays for [[Hollywood]], like ''[[Hangmen Also Die]]'', though he had no real success or pleasure in this.
+== Cold War and East Germany ==
+In the years of the [[Cold War]] and &quot;[[red scare]]&quot;, the House Un-American Activities Committee hounded Brecht for his communist allegiances, and he was soon [[Hollywood blacklist|blacklisted]] by movie studio bosses. Brecht, along with about 9 other Hollywood writers, directors, actors and producers, was subpoenaed to appear before the HUAC in November of 1947 (The so called Hollywood Ten).  He had pledged not to testify but did so anyway. Unlike the ten others who went before him, he was not cited for contempt. He testified that he was not a member of the [[communist party]] there or abroad, and was thanked by the Vice Chairman [[Karl Mundt]] for cooperating.  By this time, Brecht had left the US and was running the [[Berliner Ensemble]] theatre in [[East Berlin]].  He had lived for many years in [[Moscow]] after [[1933]], but not in the other countries mentioned.  In April of [[1941]], he acquired a visa at the US consulate in [[Finland]] to come to the US.  He then traveled across the [[USSR]] by rail to [[Vladivostok]] during June.  He was allowed to travel in the Soviet Union while officially an enemy alien from Germany when Germany attacked the USSR that same month.  Citizens of the Soviet Union could not travel as freely.  He arrived in the US in July of 1941 and took out papers to become a citizen in December, but never acted on them.  He was regularly in touch with the Soviet Vice Counsel over the next seven years.  His talent was as a playwright and poet and one would expect him to have worked in New York, but instead he stayed in Hollywood, where he had few notable accomplishments.  
+Leaving the United States for Europe, Brecht came to [[Switzerland]], where he adapted [[Sophocles]]' ''[[Antigone (Sophocles)|Antigone]]'', and then was invited to Berlin by [[East Germany]]. Horrified at the reinstatement of former Nazis into [[West Germany]]'s government, Brecht accepted the offer and made East Berlin his home. 
+While Brecht's communist sympathies were a bane in the United States, East German officials sought to make him their hero.  Though he had not been a member of the communist party, he had been deeply schooled in [[Marxism]] by the dissident communist [[Karl Korsch]], and his communist allegiances were sincere. He claimed communism appeared to be the only reliable antidote to [[militarism|militarist]] [[fascism]] and spoke out against the remilitarization of the West and the [[History of Germany since 1945|division of Germany]]. Brecht used Korschs’ version of the Marxist dialectic in both his aesthetic theory and practice in a central way when presenting his plays. 
+But Brecht proved to be almost as uncomfortable for his East German hosts as for the West Germans across the [[iron curtain]]. Brecht did not keep up appearances &amp;mdash; he was scruffily dressed and always had a stubbly, unshaven face. East German security guards once excluded him from a Berlin reception being given in his own honor.
+He also found the experience of living in a [[Stalinist]] state far different from what he had imagined in exile, when he composed works such as ''Die Massnahme'' (&quot;The Measure&quot;), which glorified the self-denying infallible vanguard party, or, more concretely, in ''Die Massnahmen'', which justified the political decisions made by the [[Comintern]] that resulted in the spectacular failure of the revolution attempted in [[Shanghai]] in [[1927]].
+== Later life ==
+[[Image:Brechtgrave.jpg|thumb|left|Grave of Bertolt Brecht and Helen Weigel]]Although Brecht lived in [[East Germany]], a copyright on his writings was held by a Swiss company and he received valuable hard currency remittances; he remained an Austrian citizen. He used to drive around East Berlin in a pre-war [[DKW]] car &amp;mdash; a rare luxury in the austere divided capital.
+Brecht wrote very few plays in his last years in Berlin, none of them as famous as his previous works. Some of his most famous poems, however, including the &quot;[[Buckower Elegies]]&quot;, were from this time.
+Brecht died in [[1956]] of a [[Myocardial infarction|heart attack]] at the age of 
+In his [[will (law)|will]] he provided instructions that a stiletto be placed in his heart and that he be buried in a steel coffin so that his corpse could not be eaten by worms. He is buried in the [[Dorotheenfriedhof]] in Berlin.
+'''Brechtian''' is a term used by drama critics in regards to anything recalling Brecht's particular style and approach to theatre. He is one of only a handful of authors whose names have become adjectives (see [[Joycean]], [[Kafkaesque]], [[Orwellian]] and [[Pinteresque]]).
+Brecht left the [[Berliner Ensemble]] to his wife, the actress [[Helene Weigel]], which she ran until her death in [[1971]]. Perhaps the most famous German touring theater of the postwar era, it was primarily devoted to performing Brecht plays.  
+His son, [[Stefan Brecht]], became a poet and theatre critic interested in New York's avant-garde theatre.
+Brecht's influence can be seen in the cinema.  Such filmmakers as [[Lars von Trier]], [[Rainer Werner Fassbinder]] and [[Jean-Luc Godard]] were influenced by Brecht and his theory of the [[Verfremdungseffekt]].
+Brecht's famous quote &quot;art is not a mirror held up to reality, but a hammer with which to shape it” was used when [[Paul Haggis]] accepted the best original screenplay [[Academy Awards|Oscar]] for [[Crash]].
+== Theory of theatre ==
+Brecht wanted to answer to Lenin’s question ‘Wie und was soll man lernen?’ ('How and what should we learn?').   He created an influential theory of theatre, the '''[[epic theatre]]''', wherein a play should not cause the spectator to emotionally identify with the action before him or her, but should instead provoke rational self-reflection and a critical view of the actions on the stage.  He believed that the experience of a climactic catharsis of emotion left an audience complacent.  Instead, he wanted his audiences to use this critical perspective to identify social ills at work in the world and be moved to go forth from the theatre and effect change.
+Hans Eisler has noted, these plays resemble political seminars. Brecht described them as &quot;a collective political meeting&quot; in which the audience is to participate actively. One sees in this model a rejection of the concept of the bureaucratic elite party where the politicians are to issue directives and control the behaviour of the masses. 
+For this purpose, Brecht employed the use of techniques that remind the spectator that the play is a representation of reality and not reality itself, which he called the '''[[Verfremdungseffekt]]''' (translated as ''distancing effect,'' ''estrangement effect,'' or ''alienation effect'').
+Such techniques included the direct address by actors to the audience, transposition of text to third person or past tense, speaking the stage direction outloud (Brecht on Theatre, 138), exaggerated, unnatural stage lighting, the use of song, and explanatory placards.  By highlighting the constructed nature of the theatrical event, Brecht hoped to communicate that the audience's reality was, in fact a construction and, as such, was changeable.
+Another technique that Brecht employed to achieve his '''[[Verfremdungseffekt]]''' was the idea referred to as [[historification]].  The content of many of his plays dealt with fictional tellings of historical figures or events.  His idea was that if one were to tell a story from a time that is contemporary to an audience, they may not be able to maintain the critical perspective he hoped to achieve.  Instead, he focused on historical stories that had parallel themes to the social ills he was hoping to illuminate in his own time.  He hoped that, in viewing these historical stories from a critical perspective, the contemporary issues Brecht was addressing would be illuminated to the audience.  
+In one of his first productions, Brecht famously put up signs that said &quot;Glotzt nicht so romantisch!&quot; (&quot;Don't stare so romantically!&quot;). His manner of stagecraft has proven both fruitful and confusing to those who try to produce his works or works in his style. His theory of theatre has heavily influenced modern theatre, though it is believed that the effect of the epic theatre wears off after watching a few similar plays. Some of his innovations, though, have become so common that they've become theatrical canon.
+&lt;!-- Not necessary, for its own article maybe? :: Another useful translation of Verfremdungseffekt is ''estrangement effect.'' This translation places an emphasis on how Brecht tried to make situations strange in order to distance the audience from the play.--&gt;
+Although Brecht's work and ideas about theatre are generally thought of as belonging to [[modernism]], there is recent thought that he is the forerunner of contemporary [[postmodern]] theatre practice.  This is particularly so because he questioned and dissolved many of the accepted practices of the theatre of his time and created a uniquely [[political theatre]], that involved the audience in understanding its meaning.  Moreover, he was one of the first theatre practitioners to incorporate multimedia into the [[semiotics]] of theatre.
+Because several Brecht works were not performed until long after they were written, the dates below show both the year they were written, followed by the year they were first produced.
+* ''[[Baal (play)|Baal]]'' ([[1918]]/[[1926]])
+* ''[[Drums in the Night]]'' (''Trommeln in der Nacht'', [[1918-20]])
+* ''[[In the Jungle of the Cities/ In the Swamp]]'' ([[1921-23]])
+* ''[[Man is Man]]'' (''Mann ist Mann'', [[1924-25]])
+* ''[[The Threepenny Opera]]'' (''Die Dreigroschenoper'', [[1928]])
+* ''Happy End'' ([[1929]])
+* ''Lindbergh's Flight'' (''[[Der Lindberghflug]]'', [[1929]])
+* ''[[Rise and Fall of the City of Mahagonny]]'' (''Die Aufstieg und Fall der Stadt Mahagonny'', [[1928-29]])/([[1930]])
+* ''[[The Baden Lehrstück on Consent]]'' ([[1928-29]])
+* ''[[He Who Says Yes]]'' (''Der Jasager'', [[1929]]) 
+* ''[[Saint Joan of the Stockyards]]'' (''Die heilige Johanna der Schlachthöfe'', [[1929]]/[[1959]]) 
+* ''[[He Who Says No]]'' (''Der Neinsager'', [[1930]]) 
+* ''[[The Measures Taken]]'' (''Die Massnahme'', [[1930]]) 
+* ''[[The Mother (Play)|The Mother]]'' (''Die Mutter'', [[1930]]/[[1932]]) 
+* ''[[The Exception and the Rule]]'' (''Die Ausnahme und die Regel'', [[1930-31]])/([[1936]])
+**A short play about the exploitation of men. The characters undergo harsh treatment from a wealthy merchant with a lucrative interest in the imaginary deserts of Yahi.
+&lt;!--moved this unedited in its entirety from a stub--&gt;
+* ''[[The Seven Deadly Sins]]'' (''Die Sieben Todsüden der Kleinbürger'', [[1933]])  
+* ''[[The Roundheads and the Peakheads]]'' (''Die Rundköpfe und die Spitzköpfe'', [[1931-36]])
+* ''[[Fear and Misery in the Third Reich]]'' (''Furcht und Elend des Dritten Reiches'', [[1935-38]])
+* ''[[Señora Carrara's Rifles]]'' (''Die Gewehre der Frau Carrar'', [[1937]]/[[1937]]) 
+**based loosely on [[John Millington Synge|J.M. Synge]]'s ''Riders to the Sea'', but relocated by Brecht in the Spanish Civil War
+* ''[[Mother Courage and Her Children]]'' (''Mutter Courage und ihre Kinder'', [[1939]]/[[1941]]) 
+* ''[[The Trial of Lucullus]]''([[1939]]) 
+* ''[[Life of Galileo|Galileo]]'' (''Leben des Galilei'', [[1938]]/[[1943]]) 
+* ''[[The Good Person of Sezuan]]'' (''Der Gute Mensch von Sezuan'',  [[1940]]/[[1943]]) 
+* ''[[Puntila and Matti, his Hired Man|Puntila and His Man Matti]]'' (''Herr Puntila und sein Mann Matti'', [[1941]]) 
+* ''[[The Resistible Rise of Arturo Ui]]'' ([[1941]]/[[1961]]) 
+* ''[[Schweik in the Second World War]]'' ([[1941-44]])
+* ''[[The Visions of Simone Machard]]'' ([[1941-44]]) with Lion Feuchtwanger 
+* ''[[The Caucasian Chalk Circle]]'' (''Der kaukasische Kreidekreis'') ([[1944-45]])
+* ''[[The Days of the Commune]]'' ([[1948-49]])
+* ''[[The Tutor]]'' ([[1950]])
+== Further reading ==
+* [[Martin Esslin]] (1971) ''Brecht: The Man and His Work''
+* Peter Thomson and Glendyr Sacks, eds. (1994) ''The Cambridge Companion to Brecht'', Cambridge University Press
+* John Willett, trans and ed. (1992) ''Brecht on Theatre, The Development of an Aesthetic'', Hill and Wang, New York
+[[Category:German dramatists and playwrights]]
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">i suck balls</span><br /><br /><span style="text-transform:uppercase">says:</span><br />[[Image:Brecccht.jpg|thumb|right|Bertolt Brecht]]
+<comment>/* Cold War and final years in East Germany (1945&amp;ndash;1956) */ I sense some POV here that could be changed, but Brecht did support Ulbricht and the party.</comment> <br /><br />
+<div><span style="text-transform:uppercase">says:</span><br />Not, dictaorship , but dictatorship </div>
+<comment>/* Cold War and final years in East Germany (1945&amp;ndash;1956) */</comment> <br /><br />
+<span style="text-transform:uppercase">says:</span><br />* [http://digital.library.wisc.edu/1711.dl/German.BrechtYearbook The Brecht Yearbook]
+<span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">that every whim of freedom </span><br /><br /><span style="text-transform:uppercase">disagrees with:</span><br /><span style="color:#black">be crushed and communist dictatorship must reign supreme, no matter what cost in lives, although in that letter he also urged the SED leadership to have a &quot;grand dialogue with the masses&quot; concerning the political and economic conditions in the country.&lt;ref&gt;[''Neues </span><br /><br /><span style="text-transform:uppercase">says:</span><br />that, &quot;History will pay its respects to the revolutionary impatience of the Socialist Unity Party of
+Germany. The great discussion [exchange] with the masses about the speed of socialist construction
+will lead to a viewing and safeguarding of the socialist achievements. At this
+moment I <br /><br /><span style="text-transform:uppercase">says:</span><br />assure you of my allegiance to the Socialist Unity Party of Germany&quot;.&lt;ref&gt;[''Neues <br /><br />
+<p style="color:#000000;margin-top:75px;" class="timestamp">Exeunt omnes<br /><br /><br /><br />thursday, June 19 2008...</p>
+<br />[curtain]<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>

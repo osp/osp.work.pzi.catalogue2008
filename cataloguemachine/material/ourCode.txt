@@ -1,0 +1,500 @@
+import BeautifulSoup
+import datetime, calendar
+import re, diff
+week = ['monday', 
+'tuesday', 'wednesday', 
+'thursday', 'friday', 
+'saturday', 'sunday']
+month = ['December',
+'January', 'Febuary',
+'March', 'April', 
+'May', 'June', 
+'July', 'August', 
+'September', 'October', 
+'November']
+if (limit == 0):
+# FULL HISTORY
+del vars['limit']
+del vars['offset']
+del vars['action']
+del vars['dir']
+vars['history']="history"
+# GET the data
+def filterText (t):
+text1 = filterText(text1)
+text2 = filterText(text2)
+oude_woorden=oud.split()
+ret = ""
+for delete in deletes:
+if (delete == None):
+elif (delete == " "):	
+pass
+else:
+for insert in inserts:
+def parse_wiki_time(ts):
+(date,time)=ts.split("T")
+(j,m,d)=date.split("-")
+time = time[:-1]
+title = ""
+r = revisions[i]
+if (dtext == ""):
+delta = (next_ts-ts)
+h = 15+(15 * delta.days)
+f = open('rcp.txt','r')			
+listofnames=f.readlines()
+# setting the user-agent
+recentchangeofficers()
+inputs=cgi.FieldStorage()
+timeofday=["at midnight",
+"early in the morning",
+"later that afternoon",
+comment=r.find("comment")
+t = talks[counter]
+t2 = talks[counter+1]
+counter += 1
+print "</body>"
+print "</html>"def binary
+l=[] while(k>0):
+l.append(str(k&1)); 
+k=k>>1  
+return "".join(l[::-1])	
+eject /dev/scd$prev -ts
+&& eject /dev/scd$number 
+if ( sys.argv[2] == 'Z' ):
+revolution = 0
+print "ZOOM"
+else: print "FOCUS"
+for (int howmuch = 0; 
+howmuch < TOTAL; 
+howmuch++) {
+if ( howmuch == more )
+digitalWrite(howmuch 
++ offset, HIGH);
+else digitalWrite
+(howmuch + offset, LOW);
+class MemeHandler
+(BaseHTTPRequestHandler):
+def do_GET(self):
+if self.path.endswith
+(".html"):
+f = open(curdir + sep
++ self.path)
+self.send_response(200)
+('Content-type','text/htm
+ser = serial.Serial
+('/dev/ttyUSB0', 38400)
+Serial.flush();
+case $number in 
+( 0 | 1 ) group=1; z=25;
+( 2 | 3 ) group=2; z=41;
+( 4 | 5 ) group=3; z=54;
+( 6 | 7 ) group=4; z=63;
+function reloadBrain()
+{ var req = null; 		
+req=new XMLHttpRequest;
+req.overrideMimeType
+('text/xml');
+function()
+{if(req.readyState == 4)
+{if(req.status == 200)
+{document.getElementById
+("zone").innerHTML=
+req.responseText;	
+var url="data.txt"
+url=url+"?"+Math.random;
+req.open("GET",url)
+req.setRequestHeader
+("Pragma", "no-cache");
+<img src="http://
+145.24.143.128:3000/" 
+style="height:100%">  
+#include "gfx/all_gfx.h"
+#include "gfx/all_gfx.c"
+#include <PA9.h>
+void textBox(char* output
+u32 nletters = 0; // Numb
+u32 letter = 0; // Curren
+char bufferText[400];
+sprintf (bufferText,"%s",
+while (letter == nletters
+++nletters; // Next frame
+letter = PA_BoxText(which
+PA_WaitForVBL(); // You c
+return;
+void initSprites(void) {
+for (z=0;z<gameObjectsCou
+// enemy
+PA_LoadSpritePal(0, start
+PA_CreateSprite(0, startS
+arrGameObjects[z].spriteI
+startSpriteIndex++;
+arrGameObjects[z].spriteI
+PA_LoadSpritePal(0, start
+PA_CreateSprite(0, startS
+startSpriteIndex++;
+arrGameObjects[z].spriteI
+PA_LoadSpritePal(0, start
+PA_CreateSprite(0, startS
+startSpriteIndex++;
+void dumpDSWifi(void) {
+char *buffer2 = malloc(2
+//transmit DS data to hu
+sprintf (query,"http://
+PA_GetHTTP(buffer2, quer
+PA_OutputSimpleText(1, 2
+int main(int argc, char 
+initAll();
+startGame();
+.ft NOTCOURIER
+youtube.com/v/Erdd0c657nA
+:-?\(
+#debugging & vanity
+\h'11M'a\h'-11M'
+\h'11M'b\h'-11M'
+\h'11M'c\h'-11M'
+\h'11M'd\h'-11M'
+\h'11M'e\h'-11M'
+\h'11M'f\h'-11M'
+\h'11M'g\h'-11M'
+\h'11M'h\h'-11M'
+\h'11M'i\h'-11M'
+\h'11M'j\h'-11M'
+\h'11M'k\h'-11M'
+\h'11M'l\h'-11M'
+\h'11M'm\h'-11M'
+\h'11M'n\h'-11M'
+\h'11M'o\h'-11M'
+\h'11M'p\h'-11M'
+\h'11M'q\h'-11M'
+\h'11M'r\h'-11M'
+\h'11M's\h'-11M'
+\h'11M't\h'-11M'
+\h'11M'u\h'-11M'
+\h'11M'v\h'-11M'
+\h'11M'w\h'-11M'
+\h'11M'x\h'-11M'
+\h'11M'y\h'-11M'
+\h'11M'z\h'-11M'
+= open(aSla, 'r')
+go page by page for i in
+def lookPick(aSla): pySla
+system $enscriptCall;
+    print GROFF ".po
+"<header.groff"; print
+open LANGS, "< $aFile";
+== 0:
+#$xerox = 1; #foreach
+"003code1_empty",
+"@$_\n"; } @oneten =
+system $toPrint; }
+"Jump.groff"; open
+ [@currentLineLetters];
+$toPrint; } $toPrint
+type 1 (ascii)', make
+"groff $jumped | lpr";
+#scribus.saveDoc()
+scribus.UNIT_MILLIMETERS,
+-o$aLine.ps -E$aLine
+print TYPESET $_; }
+GROFF "\\#\n\\#\n"; }
+chomp($aLine);
+scribus.PAGE_1, 0, 1)
+"\\#\n\\#\n";
+FROM radical_uploads
+"i am killing the film!"
+last_id = None
+if cur_id != last_id:
+from time import sleep
+start_time = time.time()
+killing the transmission!
+transmission on!
+print time_past
+if status == 'ON':
+if status == 'OFF':
+-slave -quiet -input
+scale=640:480
+if cur_id == 'OFF':
+if cur_id == 'ON':
+echo 'seek %f 0'
+print time_past
+var=$(pidof mplayer)
+print "has successfully
+CURRENT_TRANSMISSION=%s 
+../uploads/%s">%s</td>  
+<div id ="uploadHISTORY">
+sys.exit(0)
+if upload != None:
+try:
+upload = form
+<p>Your file: %s
+FROM equal_uploads 
+elif action == 'OFF':
+if action == 'ON':
+(status) VALUES ('OFF')
+(status) VALUES ('ON')
+form.getvalue('action')
+SELECT status FROM
+src="ON-OFF.cgi"
+src="time-line-binary.cgi
+""" % (act)
+INSERT INTO
+if action != None:
+cursor.close()
+if row[0] == 'OFF':
+if row[0] == 'ON':
+/duration)*width
+left = right
+count(*) FROM equalup
+== None: break
+passwd='uppass'
+def speed():
+SET status='DONE'
+; kill $var""")
+""mplayer -slave
+>| /tmp/fifofile""")  
+!= last_uploads:
+OR status IS NULL
+WHERE status = 'NEW'
+name=resp[1]
+#copyright or not?
+if resp[0][0] == 'n':
+mode='Rights released 
+to Public Domain' 
+def onKey(key, page):		
+if resp[0][0] == 'y':
+# draw cur page
+pnumber=font.render
+page.draw(screen)
+#refresh frames
+pygame.display.flip()
+clock.tick(FPS)
+#draw bits on the staff
+for page in pages:
+cmnd = "lpr " + page
+os.system(cmnd)
+symbolsByPos={}
+pages=[]
+page=Page(symbolsByPos)
+if k!=key:
+pass
+print 'YEAH'
+self.name=name
+def load(self):
+noFixKeys=list(all)
+"-" : ("Head", None, 8),
+#"5" : ("Extend_most",
+all=numbers+letters
+sound.play()
+#soundpath ="../audio_
+%s.wav" % self.name
+#draw staff
+(cx+10, staffbottom+10))
+sleeptime=1.2
+print '\t'+'\t'+"Rules"
+time.sleep(sleeptime)
+pygame.font.init()
+pygame.mixer.init()
+font=pygame.font.Font
+# make a pygame clock
+resp.append(inp)
+if current_key == K_UP:
+print pages
+def draw(self, screen):
+(self.pagex, self.pagey)
+class Stamp:
+sys.exit()
+if event.type==KEYDOWN:
+current_key=event.key
+onKey(char, page)
+keylist.append(char)
+cx = width/2
+for wav in wavs_d
+xfeet = width/2
+open('five/widths.yaml')
+partname = part.keys()[0]
+render_letter(letter)
+globals()[partname]
+original_width = 0.
+strokewidth(1)
+original_width += emwidth
+line(x1,y1,x2,y2)
+y1 = row * rect_height
+x2 = 0 - crop_distance
+global barheight,jut,slab
+cells = columns * rows
+if column != 0:
+drawcontents(value)
+print str(cell) + "(row:
+em_width = value*1.5
+'!': 'exclamation',
+'$': 'dollar',
+TOPCORNER = 'topcorner'
+_glyph_width = 10
+translate(0,-cap_height)
+curveto(x2 - h_curve, bar
+w = _glyph_width / 2 - x
+rect(x1,y1,slab,y2)
+y3=capheight/2+bar_height
+x2=_glyph_width-jut-stem 
+beginpath(x1,y1)
+stem_x = jut + stem/2
+if end == MIDDLE:
+serifs=serifs.split(',')
+x = _bar_left_x
+part_corner(pos=WS)
+def part_dot(pos=S):
+def part_comma(pos):
+translate(stem,0)
+print 'AAAAAARG'
+- part_stem: pos: right
+serifs: NW,NE,SW,SE
+from blueprint import *
+from widths import *
+doublequote: .3
+font.createMappedChar()
+font[item].autoInstr()
+font.generate(output)
+from shutil import rmtree
+rmtree(TMPDIR)
+os.mkdir('letters-temp')
+import shoebox
+box = shoebox.Box()
+box.finish()
+fontforge.open(blanksfd)
+for item in letters:
+if bartype == A:
+specialchars = {
+diag_offset = 10
+// Show schnapps
+idealSegmentLength = 75;
+DeltaLimit = .02; // was
+BOUNCE = .9;
+SPRINGK = 10; 
+REPELK = 10; 
+RESISTANCE = 10;
+MASS = 2; 
+GRAVITY = 0; 
+STOPVEL = .1; 
+STOPACC = .1; 
+STOPRENDER = .01; // was
+} <line tag="edge" class=
+"linkClass" colour="pink"
+<line tag="node" class="
+twoClass" colour="brown"
+<line tag="node" class="
+subClass" colour="blue"/>
+<line tag="node" 
+class="trisClass" colour=
+"red" />
+public function setUp(nLi
+st,nodeList = nList;edge
+List = eList;
+var initCounter = 0;
+while(initCounter < 0)
+{ renderGraph();           
+initCounter++;
+setRendering(true);
+}<label>gods</label>
+<dataref><ref xlink:href=
+/wiki/Deity"/></dataref>
+public function setRender
+isRendering = bool;
+if (bool){libation= "def
+startRendering();
+<node class="trisClass" 
+name="drinks"><label>
+Drinks</label><dataref>
+<ref xlink:href="."/>
+</dataref></node>      
+Boolean {return isRender
+Delegate.create(this, 
+renderGraph);
+isRendering = false;
+delete GraphFrame.onEnter
+Lhypergraph/graphApi/Elem
+ent;)Ljava/lang/Object;
+D(Ljava/lang/String;Lhype
+rgraph/graphApi/
+Element;Ljava/lang/Object
+]()Lhypergraph/graphApi/
+Graph; setGraph
+.step {cursor: pointer;
+padding: 4px 0 0 4px;
+import BeautifulSoup
+import datetime, calendar
+import re, diff
+week = ['monday', 
+'tuesday', 'wednesday', 
+'thursday', 'friday', 
+'saturday', 'sunday']
+month = ['December',
+'January', 'Febuary',
+'March', 'April', 
+'May', 'June', 
+'July', 'August', 
+'September', 'October', 
+'November']
+if (limit == 0):
+# FULL HISTORY
+del vars['limit']
+del vars['offset']
+del vars['action']
+del vars['dir']
+vars['history']="history"
+# GET the data
+def filterText (t):
+text1 = filterText(text1)
+text2 = filterText(text2)
+oude_woorden=oud.split()
+ret = ""
+for delete in deletes:
+if (delete == None):
+elif (delete == " "):	
+pass
+else:
+for insert in inserts:
+def parse_wiki_time(ts):
+(date,time)=ts.split("T")
+(j,m,d)=date.split("-")
+time = time[:-1]
+title = ""
+r = revisions[i]
+if (dtext == ""):
+delta = (next_ts-ts)
+h = 15+(15 * delta.days)
+f = open('rcp.txt','r')			
+listofnames=f.readlines()
+# setting the user-agent
+recentchangeofficers()
+inputs=cgi.FieldStorage()
+timeofday=["at midnight",
+"early in the morning",
+"later that afternoon",
+comment=r.find("comment")
+t = talks[counter]
+t2 = talks[counter+1]
+counter += 1
+print "</body>"
+print "</html>"def binary
+l=[] while(k>0):
+l.append(str(k&1)); 
+k=k>>1  
+return "".join(l[::-1])	
+eject /dev/scd$prev -ts
+&& eject /dev/scd$number 
+if ( sys.argv[2] == 'Z'):
+revolution = 0
+print "ZOOM"
+else: print "FOCUS"
+for (int howmuch = 0; 
+howmuch < TOTAL; 
+howmuch++) {
+if ( howmuch == more )
+digitalWrite(howmuch 
++ offset, HIGH);
+translate(0,-cap_height)
+curveto(x2 - h_curve, bar
+w = _glyph_width / 2 - x
+rect(x1,y1,slab,y2)
+y3=capheight/2+bar_height
+x2=_glyph_width-jut-stem 
