@@ -1,0 +1,161 @@
+	<snelting>	hello from brussels!
+	<Tsoots>	lo
+	<mrdocs>	hi femke
+	<pierremarc>	hi
+	<snelting>	pierre, you asked about the tiffs we are loading -- it is one at a time and we tried first with jpgs and this doesn't make a difference for speed.
+	<pierremarc>	snelting: It’s just that you load them in a loop & I don’t know if they are actually "unloaded" at some point
+	<pierremarc>	what a TOP gives?
+	|<--	ludo has left freenode (Read error: 104 (Connection reset by peer))
+	<snelting>	ah. (i'm a python absolute beginner)
+	<snelting>	6336 snelting 25 0 398m 156m 13m R 99 16.1 593:33.01 scribus
+	-->|	sjc (n=sjc@78.32.104.102) has joined #scribus
+	<snelting>	wait...
+	<snelting>	that's 99% cpu for scribus ;-)
+	<pierremarc>	normal
+	<pierremarc>	It works after all ;)
+	<snelting>	yes, for almost 12 hours!
+	<snelting>	(still running ... at number 310 now. impressing)
+	<snelting>	impressive i meant
+	* sjc	drops in to follow the "Testing Scribus Limits" discussion
+	-->|	ludo (n=ludo@118.10.101-84.rev.gaoland.net) has joined #scribus
+	<sjc>	hi snelting
+	<snelting>	hello!
+	<pierremarc>	From what you wrote, I understand tyhat scribus generates some garbage somewhere which it in turn takes long time to process, but where? its still a question!
+	<snelting>	I didn't say garbage!
+	<snelting>	;-)
+	|<--	Okona has left freenode (leguin.freenode.net irc.freenode.net)
+	|<--	Wed has left freenode (leguin.freenode.net irc.freenode.net)
+	|<--	ben_goodger has left freenode (leguin.freenode.net irc.freenode.net)
+	<snelting>	it is still relatiely fast, but with 200 more runs to go... what do you think? will scribus make it to the end?
+	-->|	ben_goodger (n=ben@host86-146-18-220.range86-146.btcentralplus.com) has joined #scribus
+	-->|	Wed (n=Wed@83.209.33.104) has joined #scribus
+	-->|	Okona (n=Okona@macrbg1.informatik.tu-muenchen.de) has joined #scribus
+	<snelting>	i mean... i think we have a bit of extra time so if it means waiting than we will just be patient
+	<pierremarc>	cool
+	<pierremarc>	Although there’s something that looks like a memory leak here
+	<snelting>	but it would be tragic if the process stops at 498... yes, something is leaking or clogging up
+	<sjc>	has anything been concluded in the code yet before I arrived? I did not like those LoadImage lines when I quickly glanced through the source
+	<pierremarc>	Oh, for 2 covers, you can trick it by making them by hand :D
+	<snelting>	good thinking ... duh
+	<pierremarc>	Printer deadline postoned is the fix for now sjc!
+	<sjc>	pierremarc: oic :)
+	<snelting>	so i should look for some kind of 'unloading' in the script? is scribus memorizing all former 298 docs you think? that would be really amazing!
+	<pierremarc>	I don’t think so
+	<pierremarc>	I’ll try to reproduce it to see
+	<snelting>	ok, i can upload the folder structure with the first 5 elements plus .sla?
+	<pierremarc>	Oh, it would be great
+	<snelting>	ok give me a few minutes
+	<snelting>	it is great to have you look at it -- by now getting really curious about what is going on
+	-->|	Asynchronicle (n=Asynchro@68.244.193.82.ediscom.de) has joined #scribus
+	<snelting>	ok, it should be ok -- i don't dare to launch another scribus to test right now...
+	<pierremarc>	I will :)
+	<snelting>	http://ospublish.constantvzw.org/sources/pzicatalogue
+	<mrscribe>	Title: Index of /sources/pzicatalogue (at ospublish.constantvzw.org)
+	<snelting>	so now you should be able to generate up to 5 catalogues
+	<snelting>	(at cover no. 324 now)
+	<pierremarc>	snelting: sorry to bother you but, can you zip or tar or whatever to get it all in only one archive? It will ease the download a lot
+	<snelting>	ok you are right
+	<snelting>	sorry!
+	<snelting>	there! http://ospublish.constantvzw.org/sources/pzicatalogue/cataloguemachine.zip
+	<pierremarc>	c’est parti !!!
+	-->|	Cymek (n=Cymek__@p4FF65D06.dip.t-dialin.net) has joined #scribus
+	<snelting>	tell me if you are missing anything?
+	<pierremarc>	it complains about missing images, but I"ll modify it
+	<snelting>	ok, shouldn't make a difference to leakage or clogging ;-)
+	|<--	Asynchronicle has left freenode ("left")
+	|<--	Herm has left freenode (Read error: 110 (Connection timed out))
+	<pierremarc>	snelting: checking the script & material to change things I see that gordo’s images are in fact PDFs, why?
+	<snelting>	hmmm. good question. all material comes from different art projects; this is how he generated it and we have left it that way after testing with the printer.
+	<snelting>	not elegant, i admit
+	<snelting>	he = gordo
+	<pierremarc>	ok
+	<snelting>	also, we were interested in working with many different source materials -- each of the graduates in the catalogue has found a way to add something to each of the 500 covers
+	<snelting>	the 'lettriste' you see in the python script is one of them, randomly changing letter sizes
+	<pierremarc>	well, it’s cool but if it ends up to be an issue, might be interesting to first convert all to an unique file type, no?
+	* pierremarc	is still so slow at typing :)
+	<snelting>	yes. if we need to we will do it of course.
+	<snelting>	the placed pdf is a bit silly
+	<snelting>	especially because it is three giant pixels (if you put all catalogues together, it forms an image)
+	<snelting>	scribus still holding out well... at no. 332 now
+	<--|	JanH has left #scribus
+	-->|	JanH (n=joerg@Pb614.p.pppool.de) has joined #scribus
+	<--|	JanH has left #scribus
+	<snelting>	pierre: ça va?
+	<snelting>	i will need to go out for a few hours
+	<pierremarc>	I monitor the script now
+	<snelting>	leaving the catalogue machine running on its own
+	<snelting>	how do you monitor?
+	<pierremarc>	Right now just with timers. Want to reproduce your issur first
+	<snelting>	ok. i'm just looking at the difference of the writing time of the files
+	<pierremarc>	Images(0) loaded in 1.46746706963
+	<pierremarc>	PDF(0) saved in 22.6262660027
+	<pierremarc>	Images(1) loaded in 1.37868094444
+	<pierremarc>	PDF(1) saved in 22.6658248901
+	<pierremarc>	Images(2) loaded in 1.39984512329
+	<pierremarc>	PDF(2) saved in 21.3724861145
+	<pierremarc>	Images(3) loaded in 1.52945899963
+	<pierremarc>	PDF(3) saved in 22.4700379372
+	<pierremarc>	Images(4) loaded in 1.68279314041
+	<pierremarc>	PDF(4) saved in 24.7134678364
+	<snelting>	so... this means between 22 and 24 secs?
+	<pierremarc>	yes
+	<snelting>	hmm so it does go up, but don't know what you can tell from 5 runs
+	<snelting>	sorry to have to leave now in the middle of the detective
+	<pierremarc>	np
+	<pierremarc>	I will be here at least tonight
+	<snelting>	ok, me too
+	<snelting>	thanks for a first look!
+	<pierremarc>	de rien, le projet a l’air sympa
+
+
+LATER....
+
+	<snelting>	good news -- just finished pdf nr. 500
+	<pierremarc>	nice
+	<a_l_e>	...
+	<snelting>	i mean; so scribus has worked for 23 hours non-stop
+	<pierremarc>	really, cause i was going to bed :)
+	<snelting>	hihi. so interesting is, that it did not slow down much more
+	<snelting>	i will go through the script with some people in the coming days to see what can be done better
+	<snelting>	(for the next time ;-))
+	<MrB>	were the same fonts used for all pages?
+	<snelting>	yes.
+	<MrB>	ie, for all docs, or different ones for some of the front covers/
+	<MrB>	?
+	<snelting>	the inside is identical for each book; the cover has our own notcourier-sans only
+	<snelting>	inside is manually generated
+	<MrB>	k
+	<snelting>	we had problems earlier, because of a corrupt font.
+	<snelting>	'manually' generated pages (from scribus, selecting 'export as pdf' manually)
+	|<--	jghali has left freenode ("Parti")
+	<MrB>	yeah
+	<snelting>	would automatically detect the problem and outline it
+	-->|	jghali (n=jghali@ANantes-157-1-159-93.w86-195.abo.wanadoo.fr) has joined #scribus
+	=-=	Mode #scribus +o jghali by mrscribe
+	<snelting>	but the python generated pdf embedded it / tried to deal with it and that made huge files that made the printers pre-flight checker crassh!
+	-->|	hawk_pdm (n=robert@dslb-088-072-238-036.pools.arcor-ip.net) has joined #scribus
+	<snelting>	so, that was a good lesson.
+	<MrB>	it shouldnt have been any different in theory
+	<MrB>	hm
+	<MrB>	luckily its getting a rewrite with GSoC
+	<snelting>	i am looking forward! combined with POD the scripter really makes a difference
+	-->|	JanH (n=joerg@Pb614.p.pppool.de) has joined #scribus
+	<snelting>	our experiments are a bit brutal now
+	<MrB>	hehe
+	<snelting>	but we need to start somewhere ;-)
+	<snelting>	ok, i'll go over the script with some people and post back about what we find on our side
+	<MrB>	ok
+	<MrB>	thanks
+	<mrdocs>	snelting: hi femke
+	<snelting>	hello!
+	<mrdocs>	btw, it looks like amsterdam is the leading candidate for LGM so far
+	<snelting>	yes i saw
+	<snelting>	if it is going to go through, there is many people i should connect lgm to
+	<snelting>	it is a bit lazy option for me / us but it could work out well if lgm lands in the land of design ;-)
+	<snelting>	i am not a good organiser but i will do what i can to help
+	<mrdocs>	:)
+	<snelting>	if it is final, amsterdam it will be on the create list?
+	<MrB>	the create list is used for lgm organisation, yes, so you will see it there
+	<snelting>	ok. i'm already looking out for things -- for sure the piet zwart institute (the org we did the 500 cover catalogue for) can be helpful
+	<snelting>	i'll gather my notes
+	<snelting>	thanks again, and pierre: sleep well!
